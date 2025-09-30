@@ -8,23 +8,23 @@ results. Adaptable team player with a strong work ethic seeking to contribute ex
 projects.
 #### 😄 Skills
 
-⚡Web Development:Angular, React, Vue.js, J2EE, JSP, Spring, Spring Boot, Spring MVC, Spring
-Security, Hibernate, .NET
+  ⚡Web Development:Angular, React, Vue.js, J2EE, JSP, Spring, Spring Boot, Spring MVC, Spring
+  Security, Hibernate, .NET
 
-⚡Programming Language skills: Java, Golang, Python, C#, TypeScript/JavaScript, Node.js, Kotlin, Scala
+  ⚡Programming Language skills: Java, Golang, Python, C#, TypeScript/JavaScript, Node.js, Kotlin, Scala
 
-⚡Databases: PostgreSQL, MongoDB, Oracle, DB2, DynamoDB -
+  ⚡Databases: PostgreSQL, MongoDB, Oracle, DB2, DynamoDB -
 
-⚡Cloud Technologies: AWS (Amazon EC2, Amazon RDS, Amazon S3, Lambda function), Azure, GCP -
+  ⚡Cloud Technologies: AWS (Amazon EC2, Amazon RDS, Amazon S3, Lambda function), Azure, GCP -
 
-⚡DevOps: Docker, Kubernetes, Terraform, Jenkins -
+  ⚡DevOps: Docker, Kubernetes, Terraform, Jenkins -
 
-⚡Messaging Systems: JMS, Apache Kafka -
+  ⚡Messaging Systems: JMS, Apache Kafka -
 
-⚡Version Control: Git, SVN -
+  ⚡Version Control: Git, SVN -
 
-⚡Blockchain: Solidity,web3.js/ethers.js
+  ⚡Blockchain: Solidity,web3.js/ethers.js
 
-⚡Other Tools: Maven, Jira, GitLab, Scrum, Kanban, Karma -
+  ⚡Other Tools: Maven, Jira, GitLab, Scrum, Kanban, Karma -
 
 
