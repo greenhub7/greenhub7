@@ -1,4 +1,7 @@
 ## Hi there 👋
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+WEB+and+AI+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
+</div>
 
 #### 🌱 Summary
 Experienced and passionate Blockchain Engineer and Senior Full Stack Developer with over 7
