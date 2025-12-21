@@ -57,12 +57,7 @@ Security, Hibernate, .NET
 
 ⚡Other Tools: Maven, Jira, GitLab, Scrum, Kanban, Karma -
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
 -  <img alt="GIF" src="https://github.com/miraclerose001/miraclerose001/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **AI chatbot and agent World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Python, Pytorch, tensorflow, MERN, Docker, AI agent, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Follow me: For Future of AI and WEB**.<br>
+- &nbsp;&nbsp;<img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Follow me: For Future of AI and WEB.<br>
