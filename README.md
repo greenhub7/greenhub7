@@ -4,6 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+WEB+and+AI+Engineer.;Over+7+years+of+Experience+in+Web+and+AI." alt="Typing SVG" /></a>
 </div>
 
+#### 🌱 Summary
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -18,7 +19,16 @@ and adept at leveraging excellent communication and organizational skills to del
 results. Adaptable team player with a strong work ethic seeking to contribute expertise to innovative
 projects.</li>
 </ul>
-#### 🌱 Summary
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #### 😄 Skills
 
@@ -47,8 +57,12 @@ Security, Hibernate, .NET
 
 ⚡Other Tools: Maven, Jira, GitLab, Scrum, Kanban, Karma -
 
-<div>
-    <a><h2>Trophies</h2></a>
-    <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=sajidantechie&row=4&theme=onedark&no-frame=true"/>
-</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+-  <img alt="GIF" src="https://github.com/miraclerose001/miraclerose001/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **AI chatbot and agent World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Python, Pytorch, tensorflow, MERN, Docker, AI agent, or anything**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Follow me: For Future of AI and WEB**.<br>
