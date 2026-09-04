@@ -4,33 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Transparent+Scoping+Flexible+Engagements." alt="Typing SVG" /></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <p align="center">
-  <p>--------------------------------------------------------------Skills--------------------------------------------------------</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,c,cpp,py,dotnet,js,html,css,d3,react,redux,nodejs,flutter,alpinejs,flask,sass,bootstrap,tailwind,materialui,figma,mysql,firebase,gcp,docker,kubernetes,netlify,git,github,githubactions,postman" />
   </a>
